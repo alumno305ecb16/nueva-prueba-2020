@@ -28,13 +28,31 @@
    <!-- Plugins -->  
    <!-- Core plugins  -->
 
-   <!-- <gap:plugin name="org.apache.cordova.dialogs" /> -->
-   <!--<gap:plugin name="org.apache.cordova.file"></gap:plugin> --> 
+   <!-- <gap:plugin name="org.apache.cordova.dialogs" /> 
+   <gap:plugin name="org.apache.cordova.file"></gap:plugin> 
    <gap:plugin name="org.apache.cordova.file-transfer" />  
    <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" />  
    <gap:plugin name="org.apache.cordova.vibration" />
-   <gap:plugin name="org.apache.cordova.dialogs" source="npm" ></gap:plugin>
+   <gap:plugin name="org.apache.cordova.dialogs" source="npm" ></gap:plugin>-->
 
+   <gap:plugin  name="org.apache.cordova.dialogs" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.device" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.device-orientation" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.splashscreen" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.camera" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.device-motion" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.network-information" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.battery-status" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.vibration" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.geolocation" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.globalization" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.file" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.inappbrowser" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.media" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.media-capture" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.contacts" ></gap:plugin>
+   <gap:plugin  name="org.apache.cordova.file-transfer" version="0.4.3" ></gap:plugin>
+   
    <!-- Third party plugins -->  
    
    <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->  
