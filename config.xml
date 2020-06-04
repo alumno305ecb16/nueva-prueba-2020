@@ -16,7 +16,7 @@
    </author>  
    
    <!-- Personaliza la aplicacion y plataforma  -->  
-   <preference name="phonegap-version"      value="7.0.1" />    
+   <preference name="phonegap-version"      value="7.1.0" />    
    <preference name="orientation"        value="portrait" />    
    <preference name="target-device"      value="universal" />   
    <preference name="fullscreen"         value="true" />      
